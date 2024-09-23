@@ -1,0 +1,1 @@
+serverless/openvino/omz/intel/text-detection-0004/nuclio
